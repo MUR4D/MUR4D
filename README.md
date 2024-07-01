@@ -4,7 +4,6 @@
 - Backend Engineer at [Zirinc](https://zirinc.com/) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUR4D)](https://github.com/MUR4D/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUR4D&hide_progress=true)
 
 <!--
