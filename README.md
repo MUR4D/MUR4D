@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUR4D)](https://github.com/MUR4D/github-readme-stats)
+
 <!--
 **MUR4D/MUR4D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
