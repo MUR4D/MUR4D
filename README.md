@@ -2,7 +2,7 @@
 
 📌- My name is Murad, I study Differential Equations at M.V. LOMONOSOV MOSCOW STATE UNIVERSITY
 
-⚡- Backend Engineer at [Zirinc](https://zirinc.com/) 
+⚡- Backend Engineer
 
 ## Github Stats 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUR4D)](https://github.com/MUR4D/github-readme-stats)
